@@ -11,7 +11,7 @@ Fichiers :
 
 
 
-Auteurs : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [T-Rex](https://hackropole.fr/fr/challenges/crypto/fcsc2022-crypto-t-rex/)
 
